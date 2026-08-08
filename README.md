@@ -14,7 +14,7 @@
 
 | ARM32 Tablet Client UI | x64 PC Server Control Panel |
 | :---: | :---: |
-| ![ARM32 Client Demo](assets\client_arm32_example.png) | ![x64 Server Demo](assets\gui_server_example.png) |
+| ![ARM32 Client Demo](assets/client_arm32_example.png) | ![x64 Server Demo](assets/gui_server_example.png) |
 
 ---
 
